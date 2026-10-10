@@ -1,0 +1,25 @@
+# GT-3D — Blueprint de Render Free para testear con amistades.
+# ADVERTENCIA: Free NO conserva SQLite ni las fotos editadas al dormir/reiniciar.
+services:
+  - type: web
+    name: gt3d-demo
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev && node --check server.js && node --check app.js
+    startCommand: npm start
+    healthCheckPath: /api/health
+    autoDeployTrigger: off
+    envVars:
+      - key: NODE_VERSION
+        value: "22.22.0"
+      - key: NODE_ENV
+        value: production
+      - key: GT3D_DEMO_MODE
+        value: "1"
+      - key: GT3D_DATA_DIR
+        value: /tmp/gt3d-demo
+      # Render solicita esta clave al crear el Blueprint: NUNCA en GitHub.
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: SESSION_SECRET
+        generateValue: true

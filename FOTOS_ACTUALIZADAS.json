@@ -1,0 +1,267 @@
+{
+  "source": "Fotos catalogo.zip",
+  "description": "32 fotos editadas sustituyen las imágenes 01–26 y 30–35. Las 27–29 conservan las imágenes anteriores.",
+  "photos": [
+    {
+      "id": 1,
+      "source": "catalog/01.jpg",
+      "target": "assets/catalog/01.webp",
+      "width": 475,
+      "height": 475,
+      "bytes": 100680
+    },
+    {
+      "id": 2,
+      "source": "catalog/02.jpg",
+      "target": "assets/catalog/02.webp",
+      "width": 480,
+      "height": 480,
+      "bytes": 82784
+    },
+    {
+      "id": 3,
+      "source": "catalog/03.png",
+      "target": "assets/catalog/03.webp",
+      "width": 356,
+      "height": 356,
+      "bytes": 44558
+    },
+    {
+      "id": 4,
+      "source": "catalog/04.jpg",
+      "target": "assets/catalog/04.webp",
+      "width": 375,
+      "height": 375,
+      "bytes": 36422
+    },
+    {
+      "id": 5,
+      "source": "catalog/05.jpg",
+      "target": "assets/catalog/05.webp",
+      "width": 399,
+      "height": 399,
+      "bytes": 47406
+    },
+    {
+      "id": 6,
+      "source": "catalog/06.jpg",
+      "target": "assets/catalog/06.webp",
+      "width": 388,
+      "height": 388,
+      "bytes": 45440
+    },
+    {
+      "id": 7,
+      "source": "catalog/07.jpg",
+      "target": "assets/catalog/07.webp",
+      "width": 273,
+      "height": 273,
+      "bytes": 15450
+    },
+    {
+      "id": 8,
+      "source": "catalog/08.jpg",
+      "target": "assets/catalog/08.webp",
+      "width": 285,
+      "height": 285,
+      "bytes": 23198
+    },
+    {
+      "id": 9,
+      "source": "catalog/09.jpg",
+      "target": "assets/catalog/09.webp",
+      "width": 411,
+      "height": 411,
+      "bytes": 26440
+    },
+    {
+      "id": 10,
+      "source": "catalog/10.jpg",
+      "target": "assets/catalog/10.webp",
+      "width": 244,
+      "height": 244,
+      "bytes": 11634
+    },
+    {
+      "id": 11,
+      "source": "catalog/11.jpg",
+      "target": "assets/catalog/11.webp",
+      "width": 261,
+      "height": 261,
+      "bytes": 22110
+    },
+    {
+      "id": 12,
+      "source": "catalog/12.jpg",
+      "target": "assets/catalog/12.webp",
+      "width": 414,
+      "height": 414,
+      "bytes": 24158
+    },
+    {
+      "id": 13,
+      "source": "catalog/13.jpg",
+      "target": "assets/catalog/13.webp",
+      "width": 411,
+      "height": 411,
+      "bytes": 19844
+    },
+    {
+      "id": 14,
+      "source": "catalog/14.jpg",
+      "target": "assets/catalog/14.webp",
+      "width": 290,
+      "height": 290,
+      "bytes": 32978
+    },
+    {
+      "id": 15,
+      "source": "catalog/15.jpg",
+      "target": "assets/catalog/15.webp",
+      "width": 291,
+      "height": 291,
+      "bytes": 23626
+    },
+    {
+      "id": 16,
+      "source": "catalog/16.jpg",
+      "target": "assets/catalog/16.webp",
+      "width": 265,
+      "height": 265,
+      "bytes": 16422
+    },
+    {
+      "id": 17,
+      "source": "catalog/17.jpg",
+      "target": "assets/catalog/17.webp",
+      "width": 324,
+      "height": 324,
+      "bytes": 25418
+    },
+    {
+      "id": 18,
+      "source": "catalog/18.jpg",
+      "target": "assets/catalog/18.webp",
+      "width": 304,
+      "height": 304,
+      "bytes": 30774
+    },
+    {
+      "id": 19,
+      "source": "catalog/19.jpg",
+      "target": "assets/catalog/19.webp",
+      "width": 351,
+      "height": 351,
+      "bytes": 31594
+    },
+    {
+      "id": 20,
+      "source": "catalog/20.jpg",
+      "target": "assets/catalog/20.webp",
+      "width": 324,
+      "height": 324,
+      "bytes": 16550
+    },
+    {
+      "id": 21,
+      "source": "catalog/21.jpg",
+      "target": "assets/catalog/21.webp",
+      "width": 290,
+      "height": 290,
+      "bytes": 21302
+    },
+    {
+      "id": 22,
+      "source": "catalog/22.jpg",
+      "target": "assets/catalog/22.webp",
+      "width": 311,
+      "height": 311,
+      "bytes": 29652
+    },
+    {
+      "id": 23,
+      "source": "catalog/23.jpg",
+      "target": "assets/catalog/23.webp",
+      "width": 600,
+      "height": 600,
+      "bytes": 116460
+    },
+    {
+      "id": 24,
+      "source": "catalog/24.jpg",
+      "target": "assets/catalog/24.webp",
+      "width": 390,
+      "height": 390,
+      "bytes": 57632
+    },
+    {
+      "id": 25,
+      "source": "catalog/25.jpg",
+      "target": "assets/catalog/25.webp",
+      "width": 480,
+      "height": 480,
+      "bytes": 99414
+    },
+    {
+      "id": 26,
+      "source": "catalog/26.jpg",
+      "target": "assets/catalog/26.webp",
+      "width": 582,
+      "height": 395,
+      "bytes": 56142
+    },
+    {
+      "id": 30,
+      "source": "catalog/30.jpg",
+      "target": "assets/catalog/30.webp",
+      "width": 512,
+      "height": 359,
+      "bytes": 14706
+    },
+    {
+      "id": 31,
+      "source": "catalog/31.jpg",
+      "target": "assets/catalog/31.webp",
+      "width": 342,
+      "height": 342,
+      "bytes": 31996
+    },
+    {
+      "id": 32,
+      "source": "catalog/32.jpg",
+      "target": "assets/catalog/32.webp",
+      "width": 462,
+      "height": 462,
+      "bytes": 51954
+    },
+    {
+      "id": 33,
+      "source": "catalog/33.jpg",
+      "target": "assets/catalog/33.webp",
+      "width": 487,
+      "height": 487,
+      "bytes": 65752
+    },
+    {
+      "id": 34,
+      "source": "catalog/34.jpg",
+      "target": "assets/catalog/34.webp",
+      "width": 438,
+      "height": 438,
+      "bytes": 28286
+    },
+    {
+      "id": 35,
+      "source": "catalog/35.jpg",
+      "target": "assets/catalog/35.webp",
+      "width": 541,
+      "height": 375,
+      "bytes": 37568
+    }
+  ],
+  "unchanged": [
+    27,
+    28,
+    29
+  ]
+}
